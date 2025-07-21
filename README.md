@@ -49,18 +49,3 @@ To use OECD health data to:
 | 📉 **Inequality Gap** | Visualizes disparities in access and affordability between countries |
 
 ---
-
-## 📁 Project Structure
-
-```bash
-karkinos-oecd-pharma-analysis/
-├── data/
-│   └── OECD_pharma_spending.csv
-├── notebooks/
-│   └── oecd_india_forecast_model.ipynb
-├── dashboards/
-│   └── financial_forecast_model.xlsx
-├── reports/
-│   └── market_forecast_summary.pdf
-├── README.md
-└── requirements.txt
